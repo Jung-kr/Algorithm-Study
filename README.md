@@ -29,7 +29,7 @@ ex) [1,2,3,2,5] 에서 합 5를 가지는 연속 수열의 갯수: 2
 => 기존에는 bfs는 1중 반복문을 통해 queue에 push,pop 했지만 lev를 구할 때는 2중 반복문(큐 사이즈 저장)을 통해 구함
   
 ### 5. 백준1629 [곱셈](https://www.acmicpc.net/problem/1629) (실버1)  
-*수학 // 지수법칙과 모듈러 성질을 이용해서 시작 복잡도극 log로 줄이는 문제
+*수학 // 지수법칙과 모듈러 성질을 이용해서 시작 복잡도극 log로 줄이는 문제  
 지수법칙 : a^(n+m) = a^n * a^m  
 모듈러 성질  
 ![image](https://user-images.githubusercontent.com/81340804/229124579-63f24841-7d6f-4e17-8b47-fc5ef2dc52b1.png)
