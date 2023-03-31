@@ -30,5 +30,6 @@ ex) [1,2,3,2,5] 에서 합 5를 가지는 연속 수열의 갯수: 2
   
 ### 5. 백준1629 [소수 경로](https://www.acmicpc.net/problem/1629) (실버1)  
 *수학  
-지수법칙 : a^(n+m) = a^n * a^m
-모듈러 성질 : (a*b)%c = (a%c * b%c)%c
+지수법칙 : a^(n+m) = a^n * a^m  
+모듈러 성질
+![image](https://user-images.githubusercontent.com/81340804/229124579-63f24841-7d6f-4e17-8b47-fc5ef2dc52b1.png)
