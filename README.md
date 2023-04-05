@@ -38,5 +38,10 @@ ex) [1,2,3,2,5] 에서 합 5를 가지는 연속 수열의 갯수: 2
 ### 6. 백준2110 [공유기 설치](https://www.acmicpc.net/problem/2110) (골드4)  
 *이분탐색 문제  
 => 이분 탐색을 이용하는 문제는 어느 부분에서 이분 탐색을 이용해야 하는지 찾기 어려울 수 있음  
-<꼭 다시 풀어볼 것>
+<꼭 다시 풀어볼 것>  
+
+### 7. 백준1927 [최소힙](https://www.acmicpc.net/problem/1927)  
+*우선순위 큐 문제  
+ios_base::sync_with_stdio(false); cout.tie(NULL); cin.tie(NULL);로 입출력 시간을 줄일 수 있음  
+https://velog.io/@gogori6565/BOJ-cin.tieNULL%EA%B3%BC-iosbasesyncwithstdiofalse
 
