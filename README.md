@@ -43,5 +43,10 @@ ex) [1,2,3,2,5] 에서 합 5를 가지는 연속 수열의 갯수: 2
 ### 7. 백준1927 [최소힙](https://www.acmicpc.net/problem/1927)  
 *우선순위 큐 문제  
 ios_base::sync_with_stdio(false); cout.tie(NULL); cin.tie(NULL);로 입출력 시간을 줄일 수 있음  
-https://velog.io/@gogori6565/BOJ-cin.tieNULL%EA%B3%BC-iosbasesyncwithstdiofalse
+https://velog.io/@gogori6565/BOJ-cin.tieNULL%EA%B3%BC-iosbasesyncwithstdiofalse  
+  
+### 8. 백준2014 [소수의 곱](https://www.acmicpc.net/problem/2014) (골드2) 
+*우선순위 큐 문제  
+=> 우선순위 큐를 생각하는 아이디어 + 최소 힙에 들어갈 숫자가 중복될 수도 있다
+
 
