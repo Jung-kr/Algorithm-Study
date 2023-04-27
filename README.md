@@ -52,4 +52,7 @@ https://velog.io/@gogori6565/BOJ-cin.tieNULL%EA%B3%BC-iosbasesyncwithstdiofalse
 ### 9. 백준15686 [치킨 배달](https://www.acmicpc.net/problem/15686) (골드5)
 *조합, 브루트포스 알고리즘 문제  
 => next_permutation을 사용해서 조합으로 해결할 수 있는 심화 문제  
-=> 그래프를 직접 입력 받는 문제 같아 보이지만 좌표만으로 조합을 이용해 모든 경우의 수 계산하는 문제  
+=> 그래프를 직접 입력 받는 문제 같아 보이지만 좌표만으로 조합을 이용해 모든 경우의 수 계산하는 문제 
+  
+### 10. 백준10816 [숫자 카드 2](https://www.acmicpc.net/problem/10816) (실버4)  
+*해시 맵 문제
