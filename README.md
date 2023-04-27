@@ -55,4 +55,10 @@ https://velog.io/@gogori6565/BOJ-cin.tieNULL%EA%B3%BC-iosbasesyncwithstdiofalse
 => 그래프를 직접 입력 받는 문제 같아 보이지만 좌표만으로 조합을 이용해 모든 경우의 수 계산하는 문제 
   
 ### 10. 백준10816 [숫자 카드 2](https://www.acmicpc.net/problem/10816) (실버4)  
-*해시 맵 문제
+*해시 맵 기초 문제  
+   
+### 11. 백준4358 [생태학](https://www.acmicpc.net/problem/4358) (실버2)  
+*맵(정렬) + 문자열 문제  
+=> cout으로 특정 소수점까지 출력   cout << fixed; cout.precision(4);
+=> 띄어쓰기 포함 한줄 입력받기    getline(cin, tree); // 위에 ignore()로 버퍼 초기화 해줘야함  
+=> 입력 종료 조건이 없으므로 getline의 eof 사용
