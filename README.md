@@ -61,4 +61,4 @@ https://velog.io/@gogori6565/BOJ-cin.tieNULL%EA%B3%BC-iosbasesyncwithstdiofalse
 *맵(정렬) + 문자열 문제  
 => cout으로 특정 소수점까지 출력   cout << fixed; cout.precision(4);  
 => 띄어쓰기 포함 한줄 입력받기    getline(cin, tree); // 위에 ignore()로 버퍼 초기화 해줘야함  
-=> 입력 종료 조건이 없으므로 getline의 eof 사용
+=> 입력 종료 조건이 없으므로 getline의 eof 사용  // ctrl+Z 후 enter
