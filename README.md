@@ -61,4 +61,10 @@ https://velog.io/@gogori6565/BOJ-cin.tieNULL%EA%B3%BC-iosbasesyncwithstdiofalse
 *맵(정렬) + 문자열 문제  
 => cout으로 특정 소수점까지 출력   cout << fixed; cout.precision(4);  
 => 띄어쓰기 포함 한줄 입력받기    getline(cin, tree); // 위에 ignore()로 버퍼 초기화 해줘야함  
-=> 입력 종료 조건이 없으므로 getline의 eof 사용  // ctrl+Z 후 enter
+=> 입력 종료 조건이 없으므로 getline의 eof 사용  // ctrl+Z 후 enter  
+  
+
+### 12. 백준1541 [잃어버린 괄호](https://www.acmicpc.net/problem/1541) (실버2)  
+*string + 수학  
+=> input이 "55-50+40"인데 string으로 input을 받고 부호 -,+ 기준으로 계산하는 문제  
+stoi(num) => string num을 int형으로 변환  
